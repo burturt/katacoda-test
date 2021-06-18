@@ -43,4 +43,10 @@ show_progress()
 clear
 show_progress
 source .bashrc
+
+rm /root/katacoda-background-finished
+rm /root/katacoda-background
+
+clear
+
 echo "Done!"
