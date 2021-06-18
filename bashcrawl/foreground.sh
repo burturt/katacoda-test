@@ -45,7 +45,7 @@ show_progress
 source .bashrc
 
 rm /root/katacoda-background-finished
-rm /root/katacoda-background
+rm /root/katacoda-finished
 
 clear
 
