@@ -39,14 +39,10 @@ show_progress()
   echo ""
   echo "Configured"
 }
-
 clear
 show_progress
 source .bashrc
-
 rm /root/katacoda-background-finished
 rm /root/katacoda-finished
-
 clear
-
 echo "Done!"
