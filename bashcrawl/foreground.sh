@@ -1,4 +1,4 @@
 echo "Starting..."
-sleep 4; wait.sh
+sleep 4; /usr/local/bin/wait.sh
 source .bashrc
 echo "Done!"
